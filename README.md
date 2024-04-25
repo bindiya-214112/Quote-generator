@@ -10,6 +10,8 @@ Features:
 3.Twitter Sharing: Integrates with Twitter's API, enabling users to easily share their favorite quotes on Twitter with a single click.
 
 Usage:
+
+
 1.Generating Quotes:
 Upon loading the webpage, a random quote is automatically generated and displayed in the designated area.
 2.Fetching New Quotes:
