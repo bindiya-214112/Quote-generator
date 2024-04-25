@@ -1,3 +1,5 @@
+visit :  https://bindiya-214112.github.io/Quote-generator/
+
 This Quote Generator Web App is a simple yet powerful tool built using HTML, CSS, and JavaScript. 
 It allows users to generate random quotes fetched in real-time from an API and also provides the functionality 
 to share the generated quotes on Twitter with just a click of a button.
