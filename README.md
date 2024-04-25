@@ -3,6 +3,8 @@ It allows users to generate random quotes fetched in real-time from an API and a
 to share the generated quotes on Twitter with just a click of a button.
 
 Features:
+
+
 1.Random Quote Generation: Fetches random quotes from an external API and displays them dynamically on the webpage.
 2.Real-time API Fetch: Utilizes the power of real-time API fetching to ensure that users get fresh and diverse quotes with each request.
 3.Twitter Sharing: Integrates with Twitter's API, enabling users to easily share their favorite quotes on Twitter with a single click.
